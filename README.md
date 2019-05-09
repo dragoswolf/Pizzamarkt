@@ -1,2 +1,4 @@
 # Pizzamarkt
-Pizzamarkt app repo 
+### Pizzamarkt app repo
+
+Repo for Pizzamarkt app made for a college project.
